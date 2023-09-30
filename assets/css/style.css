@@ -8370,7 +8370,9 @@ h3.comment-title {
 .footer-section .footer-item .link-list {
     margin: 0;
     padding: 0;
-    list-style: none
+    list-style: none;
+    color: white;
+
 }
 
 .footer-section .footer-item .link-list li {
